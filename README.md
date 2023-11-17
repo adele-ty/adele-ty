@@ -8,9 +8,6 @@ https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-gith
 - 🔭 I’m currently working on Jiyu Technology Ltd.
 - 🌱 I’m currently learning how to create an excellent app.
 - 👯 I’m looking to collaborate on something creative.
-- 💬 Ask me about fashion music movies.
 - 📫 How to reach me: 15079211223@139.com
-- 😄 Pronouns: sita
 - ⚡ Fun fact: an interested programmer.
-- 🎮 I'm playing Cuphead.
 - 📗 blog: https://sita-blog.vercel.app/
