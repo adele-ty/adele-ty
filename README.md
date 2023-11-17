@@ -14,4 +14,4 @@ https://docs.github.com/zh/account-and-profile/setting-up-and-managing-your-gith
 - ⚡ Fun fact: an interested programmer.
 - 🎮 I'm playing Cuphead.
 - 📗 blog: https://sita-blog.vercel.app/
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adele-ty)](https://git.io/streak-stats)
